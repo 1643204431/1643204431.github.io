@@ -7,11 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi! I’m **Yinghao Zhang (张映豪)**. I will start my **MPhil** at **Hong Kong Metropolitan University (HKMU)** in **January 2026**. Currently, I’m a **Research Assistant** (Dec 2023–present), working with **Dr. Jianxiong Guo** on federated and multi-modal learning for medical and IoT applications. Before that, I was a research visiting student in industry at Hanyang University supervised by **Wei David Wang**.
+👋 Hi! I’m **Yinghao Zhang**, an incoming **MPhil student** at **Hong Kong Metropolitan University (HKMU)** supervised by **Dr. Yalin Liu**, starting in **January 2026**.  
+My research interests focus on **federated learning**, **edge–cloud intelligence**, and **multi-modal AI for healthcare and materials science**.
 
-My research focuses on:
-- **Federated & Split Learning** (efficiency, personalization, one-shot FL, non-IID mitigation)
-- **Edge–Cloud Collaboration** (communication–computation co-design, scheduling & distillation)
-- **Multi-Modal Perception & Medical AI** (sEMG/ACC, imaging & signals, compressive sensing)
-- (Broader interests) **Graph/Sequence Modeling**, **Compression & Efficient Training**
-
+Previously, I worked as a **Research Assistant** at BNU–HKBU UIC with **Dr. Jianxiong Guo**, focusing on efficient and personalized federated learning. 
+Before that, I was a research visiting student in industry at Hanyang University supervised by **Dr. Wei David Wang**.
