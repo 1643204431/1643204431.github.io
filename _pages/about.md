@@ -17,7 +17,7 @@ Previously, I worked as a Research Assistant at [BNBU](https://uic.edu.cn/en) wi
 
 - **Hong Kong Metropolitan University**, Hong Kong — *MPhil in Computer Science* (Jan 2026– ) *(Incoming)*
 
-- **BNBU**, Zhuhai, China — *Research Assistant* (Dec 2023 – Present)  
+- **Beijing Normal-Hong Kong Baptist University & Beijing Normal University**, Zhuhai, China — *Research Assistant* (Dec 2023 – Present)  
 
 - **Hanyang University**, Seoul, South Korea — *Research Visiting Student* (Mar 2023 – Dec 2023)
 
