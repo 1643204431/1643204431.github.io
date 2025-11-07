@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yinghao Zhang, an incoming MPhil student at [Hong Kong Metropolitan University (HKMU)](https://www.hkmu.edu.hk/) supervised by [Dr. Yalin Liu](#), starting in January 2026.  
+Hi! I’m Yinghao Zhang, an incoming MPhil student at [Hong Kong Metropolitan University (HKMU)](https://www.hkmu.edu.hk/) supervised by [Dr. Yalin Liu](https://yalin-liu.github.io/), starting in January 2026.  
 My research interests focus on federated learning, edge–cloud intelligence, and multi-modal AI for healthcare and materials science.
 
-Previously, I worked as a Research Assistant at [BNBU](https://uic.edu.cn/en) with [Dr. Jianxiong Guo](#), focusing on efficient and personalized federated learning.  
-Before that, I was a research visiting student in industry at [Hanyang University](https://www.hanyang.ac.kr/) supervised by [Dr. Wei David Wang](#).
+Previously, I worked as a Research Assistant at [BNBU](https://uic.edu.cn/en) with [Dr. Jianxiong Guo](https://scholar.google.com/citations?user=lljLdDcAAAAJ&hl=zh-CN), focusing on efficient and personalized federated learning.  
+Before that, I was a research visiting student in industry at [Hanyang University](https://www.hanyang.ac.kr/) supervised by [Dr. Wei Dawid Wang](https://scholar.google.com/citations?user=FQUv9tkAAAAJ&hl=zh-CN).
 
 ---
 
 ## Education
 
 - Hong Kong Metropolitan University, Hong Kong SAR — MPhil (2026– )  
-- Hanyang University, South Korea — Master of Mechanical Engineering (2023.03–2023.12, withdrawn)  
+- Hanyang University, South Korea — Master of Mechanical Engineering (2023.03–2023.12)  
 - Chengdu University of Information Technology, China — B.Sc. in Atmospheric Science (2018.10–2022.07)
 
 ---
@@ -35,6 +35,7 @@ Before that, I was a research visiting student in industry at [Hanyang Universit
 ## Publications
 
 ### Journal Publications
+
 
 1.Yinghao Zhang, Jianxiong Guo, Xingjian Ding, Zhiqing Tang, Tian Wang, Weili Wu, Weijia Jia.  
    Optimizing Communication Efficiency through Training Potential in Multi-Modal Federated Learning.  
