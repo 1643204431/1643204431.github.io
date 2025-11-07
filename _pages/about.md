@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yinghao Zhang, 
+Hi! I’m Yinghao Zhang. 
