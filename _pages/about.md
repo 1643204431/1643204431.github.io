@@ -17,7 +17,7 @@ Before that, I was a research visiting student in industry at [Hanyang Universit
 
 ## Education
 
-- Hong Kong Metropolitan University, Hong Kong SAR — MPhil (2026– )  
+- Hong Kong Metropolitan University, Hong Kong — MPhil (2026– )  
 - Hanyang University, South Korea — Master of Mechanical Engineering (2023.03–2023.12)  
 - Chengdu University of Information Technology, China — B.Sc. in Atmospheric Science (2018.10–2022.07)
 
