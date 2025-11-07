@@ -32,61 +32,52 @@ Before that, I was a research visiting student in industry at [Hanyang Universit
 
 ---
 
-## Publications
+<style>
+.scholar-item {
+  text-indent: -2em;
+  padding-left: 2em;
+  margin-bottom: 0.8em;
+  line-height: 1.5;
+  text-align: justify;
+}
+.scholar-item b {
+  font-weight: 600;
+}
+.scholar-item i {
+  font-style: italic;
+}
+.scholar-item a {
+  color: #1155cc;
+  text-decoration: none;
+}
+.scholar-item a:hover {
+  text-decoration: underline;
+}
+</style>
 
 ### Journal Publications
 
-1. **Yinghao Zhang**, Jianxiong Guo, Xingjian Ding, Zhiqing Tang, Tian Wang, Weili Wu, Weijia Jia.  
-   *Optimizing Communication Efficiency through Training Potential in Multi-Modal Federated Learning.*  
-   *ACM Transactions on Internet Technology*, 2025. DOI: [10.1145/3747590](https://dl.acm.org/doi/10.1145/3747590).  
-   [CCF B, CORE B, JCR Q1, IF: 4.1]
+<div class="scholar-item"><b>Yinghao Zhang</b>, Jianxiong Guo, Xingjian Ding, Zhiqing Tang, Tian Wang, Weili Wu, Weijia Jia (2025). “<a href="https://dl.acm.org/doi/10.1145/3747590">Optimizing Communication Efficiency through Training Potential in Multi-Modal Federated Learning</a>”. <i>ACM Transactions on Internet Technology</i>. [CCF B, CORE B, JCR Q1, IF: 4.1]</div>
 
-2. **Yinghao Zhang**, Xuanzhe Xiao, Jianxiong Guo.  
-   *TransMCS: A Hybrid CNN–Transformer Autoencoder for End-to-End Multi-Modal Medical Signals Compressive Sensing.*  
-   *Theoretical Computer Science*, 2025, 115409. DOI: [10.1016/j.tcs.2025.115409](https://www.sciencedirect.com/science/article/abs/pii/S0304397525003470).  
-   [CCF B, CORE A, JCR Q3, IF: 1.0]
+<div class="scholar-item"><b>Yinghao Zhang</b>, Xuanzhe Xiao, Jianxiong Guo (2025). “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304397525003470">TransMCS: A Hybrid CNN–Transformer Autoencoder for End-to-End Multi-Modal Medical Signals Compressive Sensing</a>”. <i>Theoretical Computer Science</i>. [CCF B, CORE A, JCR Q3, IF: 1.0]</div>
 
-3. **Yinghao Zhang**, Wei (Dawid) Wang.  
-   *A Modality-Wise Multi-Modal Transfer Learning and Dual-Stream CNN–Transformer Hybrid Network for ACC–sEMG Based Continuous Estimation of Finger Joint Angles.*  
-   *Biomedical Signal Processing and Control*, 2025. DOI: [10.1016/j.bspc.2025.108445](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009565).  
-   [JCR Q2, IF: 4.9]
+<div class="scholar-item"><b>Yinghao Zhang</b>, Wei (Dawid) Wang (2025). “<a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809425009565">A Modality-Wise Multi-Modal Transfer Learning and Dual-Stream CNN–Transformer Hybrid Network for ACC–sEMG Based Continuous Estimation of Finger Joint Angles</a>”. <i>Biomedical Signal Processing and Control</i>. [JCR Q2, IF: 4.9]</div>
 
-4. Bohan Hu, Yuhang Li, **Yinghao Zhang**.  
-   *M²PFSL: Multi-Task and Multi-Modal IoMT Healthcare System via Personalized Split Federated Learning.*  
-   *Ad Hoc Networks*, 2025. DOI: [10.1016/j.adhoc.2025.104032](https://www.sciencedirect.com/science/article/abs/pii/S157087052500280X).  
-   [CCF C, JCR Q2, IF: 4.8]
+<div class="scholar-item">Bohan Hu, Yuhang Li, <b>Yinghao Zhang</b> (2025). “<a href="https://www.sciencedirect.com/science/article/abs/pii/S157087052500280X">M²PFSL: Multi-Task and Multi-Modal IoMT Healthcare System via Personalized Split Federated Learning</a>”. <i>Ad Hoc Networks</i>. [CCF C, JCR Q2, IF: 4.8]</div>
 
-5. Xiaoling Zhang, Mengna Liu, Quan Qing, Zhongci Deng, Ming Hua, **Yinghao Zhang**.  
-   *Extreme Temperature Change and Urbanization Contribution in Chengdu from 1960 to 2018.*  
-   *Plateau and Mountain Meteorology Research*, 2022, 42(1): 10–17. DOI: [10.3969/j.issn.1674-2184.2022.01.002](https://d.wanfangdata.com.cn/periodical/scqx202201002).  
-   [Chinese Journal, IF: 1.4]
+<div class="scholar-item">Xiaoling Zhang, Mengna Liu, Quan Qing, Zhongci Deng, Ming Hua, <b>Yinghao Zhang</b> (2022). “<a href="https://d.wanfangdata.com.cn/periodical/scqx202201002">Extreme Temperature Change and Urbanization Contribution in Chengdu from 1960 to 2018</a>”. <i>Plateau and Mountain Meteorology Research</i>, 42(1): 10–17. [Chinese Journal, IF: 1.4]</div>
 
 ---
 
 ### Conference Publications
 
-1. **Yinghao Zhang**, Xuanzhe Xiao, Jianxiong Guo, Zhiqing Tang, Qiufen Ni, Weili Wu.  
-   *POSFed: Tackling Non-IID Challenges in One-Shot Federated Learning via Personalization.*  
-   *IEEE International Conference on Data Mining (ICDM 2025)*, Washington DC, USA.  
-   [Acceptance rate 13.5%, CCF B, CORE A*, EI Compendex, Scopus]
+<div class="scholar-item"><b>Yinghao Zhang</b>, Xuanzhe Xiao, Jianxiong Guo, Zhiqing Tang, Qiufen Ni, Weili Wu (2025). “POSFed: Tackling Non-IID Challenges in One-Shot Federated Learning via Personalization”. <i>IEEE International Conference on Data Mining (ICDM 2025)</i>, Washington DC, USA. [Acceptance rate 13.5%, CCF B, CORE A*, EI Compendex, Scopus]</div>
 
-2. Yuhao Fu, **Yinghao Zhang**, Yalin Liu, Bishenghui Tao, Junhong Ruan.  
-   *Cloud–Fog–Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework.*  
-   *International Conference on Networks, Communications and Intelligent Computing (NCIC 2025)*, Jiaozuo, China, 17–19 Oct 2025.  
-   [arXiv:2510.21135](https://arxiv.org/pdf/2510.21135).  
-   [Best Paper Award, EI Compendex, Scopus]
+<div class="scholar-item">Yuhao Fu, <b>Yinghao Zhang</b>, Yalin Liu, Bishenghui Tao, Junhong Ruan (2025). “<a href="https://arxiv.org/pdf/2510.21135">Cloud–Fog–Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework</a>”. <i>International Conference on Networks, Communications and Intelligent Computing (NCIC 2025)</i>, Jiaozuo, China, 17–19 Oct 2025. [Best Paper Award, EI Compendex, Scopus]</div>
 
-3. **Yinghao Zhang**, Jianxiong Guo.  
-   *A Novel GNN–TCN Framework for Enhanced Turbulent Flow Predictions.*  
-   *IEEE Wireless and Optical Communications Conference (WOCC 2025)*, Macau, May 20–22, 2025.  
-   DOI: [10.1109/WOCC63563.2025.11082218](https://ieeexplore.ieee.org/abstract/document/11082218).  
-   [EI Compendex, Scopus]
+<div class="scholar-item"><b>Yinghao Zhang</b>, Jianxiong Guo (2025). “<a href="https://ieeexplore.ieee.org/abstract/document/11082218">A Novel GNN–TCN Framework for Enhanced Turbulent Flow Predictions</a>”. <i>IEEE Wireless and Optical Communications Conference (WOCC 2025)</i>, Macau, May 20–22 2025. [EI Compendex, Scopus]</div>
 
-4. Qi Deng, **Yinghao Zhang**, Yalin Liu, Bishenghui Tao.  
-   *A Confidence-Constrained Cloud–Edge Collaborative Framework for Autism Spectrum Disorder Diagnosis.*  
-   *International Conference on Networks, Communications and Intelligent Computing (NCIC 2025)*, Jiaozuo, China, 17–19 Oct 2025.  
-   [arXiv:2510.21130](https://arxiv.org/pdf/2510.21130).  
-   [EI Compendex, Scopus]
+<div class="scholar-item">Qi Deng, <b>Yinghao Zhang</b>, Yalin Liu, Bishenghui Tao (2025). “<a href="https://arxiv.org/pdf/2510.21130">A Confidence-Constrained Cloud–Edge Collaborative Framework for Autism Spectrum Disorder Diagnosis</a>”. <i>International Conference on Networks, Communications and Intelligent Computing (NCIC 2025)</i>, Jiaozuo, China, 17–19 Oct 2025. [EI Compendex, Scopus]</div>
 
 ---
 
