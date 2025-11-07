@@ -36,7 +36,6 @@ Before that, I was a research visiting student in industry at [Hanyang Universit
 
 ### Journal Publications
 
-
 1.Yinghao Zhang, Jianxiong Guo, Xingjian Ding, Zhiqing Tang, Tian Wang, Weili Wu, Weijia Jia.  
    Optimizing Communication Efficiency through Training Potential in Multi-Modal Federated Learning.  
    *ACM Transactions on Internet Technology*, 2025. DOI: [10.1145/3747590](https://dl.acm.org/doi/10.1145/3747590).  
