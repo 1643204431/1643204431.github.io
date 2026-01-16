@@ -56,6 +56,12 @@ Previously, I worked as a Research Assistant at [BNBU](https://uic.edu.cn/en) wi
 
 ---
 
+## Teaching Experience
+
+- **Teaching Assistant**, COMP S382F/4820SEF, Hong Kong Metropolitan University, Spring 2026
+
+---
+
 ## Professional Activities
 
 - Reviewer, The 8th International Conference on Mechanical, Electric, and Industrial Engineering (MEIE 2025)  
