@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yinghao Zhang, a MPhil student at [Hong Kong Metropolitan University (HKMU)](https://www.hkmu.edu.hk/) supervised by [Dr. Yalin Liu](https://yalin-liu.github.io/), starting in January 2026. My research interests focus on federated learning, edge–cloud intelligence, and multi-modal AI for healthcare and materials science.
+Hi! I’m Yinghao Zhang, a MPhil student at [Hong Kong Metropolitan University (HKMU)](https://www.hkmu.edu.hk/) supervised by [Dr. Yalin Liu](https://yalin-liu.github.io/), starting in January 2026. My research interests focus on federated learning, edge intelligence, and AI for healthcare.
 
 Previously, I worked as a Research Assistant at [BNBU](https://uic.edu.cn/en) with [Dr. Jianxiong Guo](https://scholar.google.com/citations?user=lljLdDcAAAAJ&hl=zh-CN), focusing on efficient and personalized federated learning. Before that, I was a research visiting student at [Hanyang University](https://www.hanyang.ac.kr/) supervised by [Dr. Wei Dawid Wang](https://scholar.google.com/citations?user=FQUv9tkAAAAJ&hl=zh-CN).
 
@@ -71,8 +71,8 @@ Previously, I worked as a Research Assistant at [BNBU](https://uic.edu.cn/en) wi
 
 ## Awards & Honors
 
+- PGS by HKMU
 - Best Paper Award, NCIC 2025  
 - Provincial Undergraduate Innovation Training Program (20,000 RMB, supervised by Prof. Xiaoling Zhang)  
 - Third Prize, The 11th National College Student Mathematics Competition  
-- Third Prize, Asia and Pacific Mathematical Contest in Modeling
 
