@@ -45,8 +45,7 @@ Previously, I worked as a Research Assistant at [BNBU](https://uic.edu.cn/en) wi
 ### Conference Publications
 1. **Yinghao Zhang**, Xuanzhe Xiao, Jianxiong Guo, Zhiqing Tang, Qiufen Ni, Weili Wu. “POSFed: Tackling Non-IID Challenges in One-Shot Federated Learning via Personalization.” *IEEE International Conference on Data Mining (ICDM 2025)*, Washington DC, USA. [Acceptance rate 13.5%, CCF B, CORE A*, EI Compendex, Scopus]
 
-2. Yuexuan Xia&dagger;, **Yinghao Zhang**&dagger;* (Co-first Author, Corresponding Author), Yalin Liu, Hong-Ning Dai, Yong Xia*. "FedBiCross: A Bi-Level Optimization Framework to Tackle Non-IID Challenges in Data-Free One-Shot Federated Learning on Medical Data." *Submitted to IEEE International Conference on Multimedia and Expo (ICME 2026)*. arXiv: [arXiv:2601.01901](https://arxiv.org/abs/2601.01901). [CCF B, CORE B, EI Compendex, Scopus]
-
+2. Yuexuan Xia&dagger;, **Yinghao Zhang**&dagger;* (Co-first Author, Corresponding Author), Yalin Liu, Hong-Ning Dai, Yong Xia*. "FedBiCross: A Bi-Level Optimization Framework to Tackle Non-IID Challenges in Data-Free One-Shot Federated Learning on Medical Data." *Submitted*. arXiv: [arXiv:2601.01901](https://arxiv.org/abs/2601.01901).
 
 3. Yuhao Fu, **Yinghao Zhang**, Yalin Liu, Bishenghui Tao, Junhong Ruan. “Cloud–Fog–Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework.” *International Conference on Networks, Communications and Intelligent Computing (NCIC 2025)*, Jiaozuo, China, 17–19 Oct 2025. [arXiv:2510.21135](https://arxiv.org/pdf/2510.21135). ***Best Paper Award***. [EI Compendex, Scopus]
 
